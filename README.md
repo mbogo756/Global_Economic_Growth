@@ -26,7 +26,7 @@ https://databank.worldbank.org/
 https://datahub.io/core/global-temp
 
 <br>
-### ✨ Features & Highlights
+##  ✨ Features & Highlights
 
 *Problem Statement*
 
@@ -37,7 +37,9 @@ https://datahub.io/core/global-temp
 · Provide a worldwide view of GDP, population, and GDP per capita trends.
 
 · Enable analysis of how climate change (temperature anomalies) intersects with economic indicators.
+
 <br>
+
 ### Key Visuals
 
  1. Table of all UN countries (2020 population, GDP, GDP per capita, population density) plus sparklines for GDP by year.
@@ -60,6 +62,8 @@ https://datahub.io/core/global-temp
 
  10.Detailed table with Year, GDP, Population, GDP Growth, GDP per Capita.
 <br>
+
+
 **Metadata Page**
 
  · Documentation of all datasets and how they were sourced.
