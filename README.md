@@ -17,14 +17,16 @@ Users can explore country-level indicators—GDP, population, GDP per capita, po
 | **PowerPoint**       | Custom icons for key metrics                                                                     |
 | **File Formats**     | `.pbix` (Power BI development file), `.png` (preview images)                                     |
 
+<br>
 
 **📂 Data Sources**
 
-https://omnika.org/datastore/datasets/un-m49-region-codes?
+https://omnika.org/datastore/datasets/un-m49-region-codes
 https://databank.worldbank.org/
-https://datahub.io/core/global-temp?
+https://datahub.io/core/global-temp
 
-**✨ Features & Highlights**
+<br>
+### ✨ Features & Highlights
 
 *Problem Statement*
 
@@ -35,7 +37,7 @@ https://datahub.io/core/global-temp?
 · Provide a worldwide view of GDP, population, and GDP per capita trends.
 
 · Enable analysis of how climate change (temperature anomalies) intersects with economic indicators.
-
+<br>
 ### Key Visuals
 
  1. Table of all UN countries (2020 population, GDP, GDP per capita, population density) plus sparklines for GDP by year.
@@ -57,10 +59,11 @@ https://datahub.io/core/global-temp?
  9. Line & Clustered Column Chart: GDP (line) and GDP annual growth (columns) over time.
 
  10.Detailed table with Year, GDP, Population, GDP Growth, GDP per Capita.
-
+<br>
 **Metadata Page**
 
  · Documentation of all datasets and how they were sourced.
+ <br>
 
 ~ Clone or download the repository, open the .pbix file in Power BI Desktop, and interact with the visuals or browse the included .png previews.
 
