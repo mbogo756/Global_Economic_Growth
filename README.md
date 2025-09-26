@@ -22,11 +22,14 @@ Users can explore country-level indicators—GDP, population, GDP per capita, po
 **📂 Data Sources**
 
 https://omnika.org/datastore/datasets/un-m49-region-codes
+
 https://databank.worldbank.org/
+
 https://datahub.io/core/global-temp
 
+
 <br>
-##  ✨ Features & Highlights
+**✨ Features & Highlights**
 
 *Problem Statement*
 
@@ -70,5 +73,9 @@ https://datahub.io/core/global-temp
  <br>
 
 ~ Clone or download the repository, open the .pbix file in Power BI Desktop, and interact with the visuals or browse the included .png previews.
+
+~ To view and interact with the report and visuals actively:
+
+https://app.powerbi.com/view?r=eyJrIjoiNjAwNDU3NTktMGY3Yi00YmNiLTg0ZTQtZmI5MmNkNGFjNTEzIiwidCI6ImNhYTQ5ODFiLTk0M2MtNGE3NS04ZWJhLWIyODNiYTVmYmMxOCJ9
 
 ~ Contributions, suggestions, and forks are welcome—explore how economic development and climate change intersect over nearly fifty years of data.
