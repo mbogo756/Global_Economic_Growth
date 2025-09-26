@@ -1,7 +1,7 @@
 # 🌍 Global Economic Growth & Climate Dashboard (1973 – 2021)
 
-Interactive Power BI report exploring worldwide economic growth and temperature change from 1973 to 2021.
-It combines UN country data with NASA global-temperature records to reveal how population, GDP, and land area relate to rising global temperatures.
+· Interactive Power BI report exploring worldwide economic growth and temperature change from 1973 to 2021.
+· It combines UN country data with NASA global-temperature records to reveal how population, GDP, and land area relate to rising global temperatures.
 
 ## 📝 Project Overview
 
@@ -28,13 +28,13 @@ https://datahub.io/core/global-temp?
 
 *Problem Statement*
 
-  Examine how global economic growth correlates with changes in global temperature.
+  · Examine how global economic growth correlates with changes in global temperature.
 
 *Dashboard Goals*
 
- Provide a worldwide view of GDP, population, and GDP per capita trends.
+· Provide a worldwide view of GDP, population, and GDP per capita trends.
 
- Enable analysis of how climate change (temperature anomalies) intersects with economic indicators.
+· Enable analysis of how climate change (temperature anomalies) intersects with economic indicators.
 
 ### Key Visuals
 
@@ -60,8 +60,8 @@ https://datahub.io/core/global-temp?
 
 **Metadata Page**
 
-  Documentation of all datasets and how they were sourced.
+ · Documentation of all datasets and how they were sourced.
 
-Clone or download the repository, open the .pbix file in Power BI Desktop, and interact with the visuals or browse the included .png previews.
+~ Clone or download the repository, open the .pbix file in Power BI Desktop, and interact with the visuals or browse the included .png previews.
 
-Contributions, suggestions, and forks are welcome—explore how economic development and climate change intersect over nearly fifty years of data.
+~ Contributions, suggestions, and forks are welcome—explore how economic development and climate change intersect over nearly fifty years of data.
